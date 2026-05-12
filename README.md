@@ -86,7 +86,7 @@ React • Next.js • TypeScript • Tailwind • Vercel
 https://shivani-portfolio-79ys.vercel.app
 
 🔗 Repository:  
-https://github.com/Shivani-dev-m/shivani-portfolio
+https://github.com/Shivani-dev-m/Shivani-dev-m
 
 ---
 
