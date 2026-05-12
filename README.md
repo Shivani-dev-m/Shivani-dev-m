@@ -86,7 +86,7 @@ React • Next.js • TypeScript • Tailwind • Vercel
 https://shivani-portfolio-79ys.vercel.app
 
 🔗 Repository:  
-https://github.com/ShivaniRIL/shivani-portfolio
+https://github.com/Shivani-dev-m/shivani-portfolio
 
 ---
 
@@ -124,9 +124,9 @@ React • Node.js • Express • PostgreSQL • Supabase
 
 <div align="center">
 
-![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivaniRIL&show_icons=true&theme=tokyonight&hide_border=true)
+![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivani-dev-m&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniRIL&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-dev-m&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
