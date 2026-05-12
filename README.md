@@ -10,6 +10,12 @@ Building performant, scalable web experiences used by **millions of users worldw
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://shivani-portfolio-79ys.vercel.app)
 [![Email](https://img.shields.io/badge/Email-shivanichourasiya53@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanichourasiya53@gmail.com)
 
+---
+
+### 🟢 Open to Full-Time Roles & Freelance Projects Worldwide 🌍
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Shivani-dev-m&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -31,6 +37,19 @@ Currently working as **SDE-2 at Publicis Sapient**, delivering enterprise soluti
 - ☁️ **AWS Certified AI Practitioner**
 
 📍 Mumbai, India • Open to **Remote / Global opportunities**
+
+---
+
+# 🚀 Currently
+
+```javascript
+const Shivani = {
+  status       : "Open to Full-Time & Freelance 💼",
+  learning     : ["System Design", "Advanced TypeScript", "Web Performance"],
+  building     : "Scalable frontend systems for global products",
+  available    : true,
+};
+```
 
 ---
 
@@ -128,6 +147,38 @@ React • Node.js • Express • PostgreSQL • Supabase
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-dev-m&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivani-dev-m&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Shivani-dev-m&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivani-dev-m&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/Shivani-dev-m/Shivani-dev-m/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
@@ -150,5 +201,9 @@ My goal is to build products that remain **maintainable, fast, and scalable even
 ### 💬 Let's connect and build something impactful.
 
 *"Frontend is where logic meets creativity."*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani1630)
+[![Email](https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanichourasiya53@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://shivani-portfolio-79ys.vercel.app)
 
 </div>
